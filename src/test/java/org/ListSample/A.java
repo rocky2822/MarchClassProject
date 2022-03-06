@@ -20,12 +20,12 @@ public class A {
 	li.add(70);
 	
 	
-	
+	System.out.println("HI");
+
 	Set<Integer> s = new LinkedHashSet<Integer>();
 	s.addAll(li);
 	return li;
 	
-		
 		
 		
 		
